@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya a student at St Joseph's University
 - 👀 I’m interested in Web dev & AI
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning Cloud Tech (AWS and GCP)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_aadityawho_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-santosh-132a622a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasantosh2005@gmail.com) 
